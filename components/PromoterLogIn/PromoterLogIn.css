@@ -1,0 +1,217 @@
+.promoter-log-in-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 375px;
+}
+
+.frame-136 {
+  background-color: var(--white);
+  height: 812px;
+  margin-left: -431px;
+  margin-top: -41.09px;
+  width: 375px;
+}
+
+.overlap-group-16 {
+  align-items: flex-start;
+  background-color: var(--gun-powder);
+  display: flex;
+  flex-direction: column;
+  margin-left: 56px;
+  margin-top: -0.09px;
+  min-height: 812px;
+  width: 375px;
+}
+
+.overlap-group1-9 {
+  height: 140px;
+  position: relative;
+  width: 375px;
+}
+
+.frame-137 {
+  height: 13px;
+  left: 293px;
+  position: absolute;
+  top: 16px;
+  width: 18px;
+}
+
+.frame-138 {
+  height: 13px;
+  left: 336px;
+  position: absolute;
+  top: 16px;
+  width: 25px;
+}
+
+.frame-139 {
+  height: 13px;
+  left: 315px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+
+.rectangle-155 {
+  background-color: var(--white);
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.frame-135 {
+  height: 22px;
+  left: 8px;
+  position: absolute;
+  top: 56px;
+  width: 12px;
+}
+
+.rectangle-156 {
+  background-color: var(--cyber-grape);
+  height: 140px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.text-17 {
+  left: 27px;
+  letter-spacing: -0.24px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.place-12 {
+  cursor: pointer;
+  left: 26px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.promoter-log-in-2 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 41px;
+  position: absolute;
+  top: 91px;
+  white-space: nowrap;
+  width: 248px;
+}
+
+.please-fill-in-a-few-details-below {
+  height: 14px;
+  margin-left: 17px;
+  margin-top: 43px;
+  width: 238px;
+}
+
+.name {
+  height: 11px;
+  margin-left: 18.5px;
+  margin-top: 44px;
+  width: 35px;
+}
+
+.eg-michael-scott {
+  background-color: transparent;
+  border: 0;
+  height: 22px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  margin-left: 16px;
+  margin-top: 4px;
+  padding: 0;
+  white-space: nowrap;
+  width: 138px;
+}
+
+.eg-michael-scott::placeholder,
+.text_input::placeholder {
+  color: #8e8e9399;
+}
+
+.rectangle-154 {
+  align-self: center;
+  background-color: var(--mercury-2);
+  height: 1px;
+  margin-top: 10px;
+  width: 343px;
+}
+
+.password-2 {
+  height: 11px;
+  margin-left: 17px;
+  margin-top: 16px;
+  width: 60px;
+}
+
+.text_input {
+  background-color: transparent;
+  border: 0;
+  height: 22px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  margin-left: 16px;
+  margin-top: 4px;
+  padding: 0;
+  white-space: nowrap;
+  width: 107px;
+}
+
+.become-a-promoter-2 {
+  height: 16px;
+  margin-left: 17px;
+  margin-top: 32px;
+  width: 150px;
+}
+
+.overlap-group2-8 {
+  align-self: center;
+  height: 43px;
+  margin-top: 340px;
+  position: relative;
+  width: 343px;
+}
+
+.rectangle-157 {
+  cursor: pointer;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 343px;
+}
+
+.log-in {
+  left: 150px;
+  letter-spacing: -0.24px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 44px;
+}
+
+.rectangle-158 {
+  align-self: center;
+  background-color: var(--black);
+  border-radius: 3px;
+  height: 5px;
+  margin-top: 14px;
+  width: 135px;
+}
+

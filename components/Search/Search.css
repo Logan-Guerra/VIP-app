@@ -1,0 +1,389 @@
+.search-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 375px;
+}
+
+.frame-23 {
+  background-color: var(--white);
+  height: 953px;
+  margin-left: -431px;
+  margin-top: -48.14px;
+  width: 375px;
+}
+
+.overlap-group-3 {
+  height: 961px;
+  margin-left: 50px;
+  margin-top: -8px;
+  position: relative;
+  width: 381px;
+}
+
+.rectangle-40 {
+  background-color: var(--gun-powder);
+  height: 953px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.rectangle-1-1 {
+  height: 148px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 381px;
+}
+
+.frame-24 {
+  height: 13px;
+  left: 299px;
+  position: absolute;
+  top: 24px;
+  width: 18px;
+}
+
+.frame-25 {
+  height: 13px;
+  left: 342px;
+  position: absolute;
+  top: 24px;
+  width: 25px;
+}
+
+.frame-26 {
+  height: 13px;
+  left: 321px;
+  position: absolute;
+  top: 24px;
+  width: 16px;
+}
+
+.frame-27 {
+  cursor: pointer;
+  height: 27px;
+  left: 339px;
+  position: absolute;
+  top: 60px;
+  width: 26px;
+}
+
+.rectangle-41 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 6px;
+  position: absolute;
+  top: 147px;
+  width: 375px;
+}
+
+.rectangle-42 {
+  height: 45px;
+  left: 18px;
+  position: absolute;
+  top: 157px;
+  width: 351px;
+}
+
+.frame-28 {
+  height: 17px;
+  left: 30px;
+  position: absolute;
+  top: 167px;
+  width: 16px;
+}
+
+.rectangle-43 {
+  background-color: var(--cyber-grape);
+  height: 83px;
+  left: 6px;
+  position: absolute;
+  top: 878px;
+  width: 375px;
+}
+
+.rectangle-44 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 6px;
+  position: absolute;
+  top: 878px;
+  width: 375px;
+}
+
+.frame-29 {
+  cursor: pointer;
+  height: 25px;
+  left: 32px;
+  position: absolute;
+  top: 885px;
+  width: 24px;
+}
+
+.frame-30 {
+  height: 25px;
+  left: 107px;
+  position: absolute;
+  top: 885px;
+  width: 24px;
+}
+
+.frame-31 {
+  cursor: pointer;
+  height: 25px;
+  left: 182px;
+  position: absolute;
+  top: 885px;
+  width: 24px;
+}
+
+.frame-32 {
+  cursor: pointer;
+  height: 25px;
+  left: 257px;
+  position: absolute;
+  top: 885px;
+  width: 24px;
+}
+
+.frame-33 {
+  cursor: pointer;
+  height: 25px;
+  left: 332px;
+  position: absolute;
+  top: 885px;
+  width: 24px;
+}
+
+.rectangle-45 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 170px;
+  left: 22px;
+  position: absolute;
+  top: 206px;
+  width: 343px;
+}
+
+.rectangle-46 {
+  cursor: pointer;
+  height: 170px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 206px;
+  width: 343px;
+}
+
+.rectangle-47 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 170px;
+  left: 22px;
+  position: absolute;
+  top: 432px;
+  width: 343px;
+}
+
+.rectangle-48 {
+  cursor: pointer;
+  height: 170px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 432px;
+  width: 343px;
+}
+
+.rectangle-49 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 170px;
+  left: 22px;
+  position: absolute;
+  top: 658px;
+  width: 343px;
+}
+
+.rectangle-50 {
+  cursor: pointer;
+  height: 170px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 658px;
+  width: 343px;
+}
+
+.rectangle-51 {
+  background-color: var(--black);
+  border-radius: 3px;
+  height: 5px;
+  left: 126px;
+  position: absolute;
+  top: 948px;
+  width: 135px;
+}
+
+.search-2 {
+  background-color: transparent;
+  border: 0;
+  color: #3c3c4399;
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  height: 22px;
+  left: 53px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  padding: 0;
+  position: absolute;
+  top: 165px;
+  white-space: nowrap;
+  width: 54px;
+}
+
+.search-2::placeholder {
+  color: #3c3c435c;
+}
+
+.place-3 {
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 914px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.search-3 {
+  left: 101px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 914px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.my-event {
+  left: 171px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 914px;
+  white-space: nowrap;
+  width: 45px;
+}
+
+.my-tabs-1 {
+  left: 248px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 914px;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.vip-access-1 {
+  left: 316px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 914px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.catalog-item-name-one {
+  left: 22px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 382px;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.subtitle-7 {
+  left: 22px;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  position: absolute;
+  top: 404px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.catalog-item-name-two {
+  left: 22px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 608px;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.subtitle-8 {
+  left: 22px;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  position: absolute;
+  top: 630px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.catalog-item-name-three {
+  left: 22px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 834px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.subtitle-9 {
+  left: 22px;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  position: absolute;
+  top: 856px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.search-venues {
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 41px;
+  position: absolute;
+  top: 99px;
+  white-space: nowrap;
+  width: 237px;
+}
+
+.text-4 {
+  left: 33px;
+  letter-spacing: -0.24px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 42px;
+}
+

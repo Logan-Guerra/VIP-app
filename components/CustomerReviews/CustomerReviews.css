@@ -1,0 +1,304 @@
+.customer-reviews {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 375px;
+}
+
+.frame-160 {
+  background-color: var(--white);
+  height: 964px;
+  margin-left: -431px;
+  margin-top: -48.69px;
+  width: 375px;
+}
+
+.overlap-group-20 {
+  align-items: center;
+  background-color: var(--gun-powder);
+  display: flex;
+  flex-direction: column;
+  margin-left: 56px;
+  margin-top: 0.31px;
+  min-height: 964px;
+  width: 375px;
+}
+
+.overlap-group2-11 {
+  height: 88px;
+  position: relative;
+  width: 375px;
+}
+
+.frame-161 {
+  height: 13px;
+  left: 293px;
+  position: absolute;
+  top: 16px;
+  width: 18px;
+}
+
+.frame-162 {
+  height: 13px;
+  left: 336px;
+  position: absolute;
+  top: 16px;
+  width: 25px;
+}
+
+.frame-163 {
+  height: 13px;
+  left: 315px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+
+.rectangle-182 {
+  background-color: var(--cyber-grape);
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.frame-164 {
+  cursor: pointer;
+  height: 22px;
+  left: 8px;
+  position: absolute;
+  top: 54px;
+  width: 12px;
+}
+
+.rectangle-183 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 87px;
+  width: 375px;
+}
+
+.text-21 {
+  left: 27px;
+  letter-spacing: -0.24px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.reviews-1 {
+  left: 155px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 56px;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.flex-row-26 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  margin-top: 16px;
+  min-width: 343px;
+}
+
+.text-2-1 {
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  min-height: 22px;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.date {
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  margin-left: 183px;
+  margin-top: 1.0px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.overlap-group-item {
+  align-self: flex-start;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  margin-left: 16px;
+  margin-top: 12px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.i-am-57-and-fair-ski {
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  margin-top: 5px;
+  min-height: 123px;
+  width: 343px;
+}
+
+.overlap-group-container-1 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  margin-left: 16px;
+  margin-top: 12px;
+  min-width: 224px;
+}
+
+.overlap-group4-5 {
+  height: 108px;
+  position: relative;
+  width: 107px;
+}
+
+.rectangle-179 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 107px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.rectangle-180 {
+  height: 108px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.overlap-group1-12 {
+  height: 108px;
+  margin-left: 10px;
+  position: relative;
+  width: 107px;
+}
+
+.frame-container-5 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 22px;
+  min-width: 254px;
+}
+
+.frame-158 {
+  height: 21px;
+  width: 20px;
+}
+
+.frame-159 {
+  height: 21px;
+  margin-left: 97px;
+  width: 20px;
+}
+
+.rectangle-181 {
+  background-color: var(--cyber-grape);
+  height: 22px;
+  margin-top: 10px;
+  width: 375px;
+}
+
+.flex-row-25 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  margin-left: 1.0px;
+  margin-top: 7px;
+  min-width: 344px;
+}
+
+.date-1 {
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  margin-left: 153px;
+  margin-top: 1.0px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.smells-nice-but-it-d {
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  margin-right: 31.0px;
+  margin-top: 5px;
+  min-height: 33px;
+  width: 312px;
+}
+
+.frame-container-6 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  margin-top: 28px;
+  min-width: 254px;
+}
+
+.november-10-2008 {
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  margin-left: 139px;
+  margin-top: 1.0px;
+  min-height: 18px;
+  white-space: nowrap;
+}
+
+.surname {
+  align-self: flex-start;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  margin-left: 16px;
+  margin-top: 11px;
+  min-height: 20px;
+  white-space: nowrap;
+}
+
+.ive-been-using-this {
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  margin-right: 16.0px;
+  margin-top: 5px;
+  min-height: 51px;
+  width: 327px;
+}
+
+.overlap-group3-7 {
+  align-self: flex-start;
+  height: 108px;
+  margin-left: 16px;
+  margin-top: 12px;
+  position: relative;
+  width: 107px;
+}
+
+.frame-165 {
+  height: 61px;
+  left: 24px;
+  position: absolute;
+  top: 23px;
+  width: 60px;
+}
+
+.rectangle-184 {
+  background-color: var(--black);
+  border-radius: 3px;
+  height: 5px;
+  margin-top: 12px;
+  width: 135px;
+}
+

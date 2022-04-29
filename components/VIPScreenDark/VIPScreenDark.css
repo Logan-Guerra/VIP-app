@@ -1,0 +1,117 @@
+.vip-screen-dark {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 375px;
+}
+
+.frame-334 {
+  background-color: var(--white);
+  height: 812px;
+  margin-left: -431px;
+  margin-top: -41.09px;
+  width: 375px;
+}
+
+.overlap-group-29 {
+  background-color: var(--white);
+  height: 812px;
+  margin-left: 56px;
+  margin-top: -0.09px;
+  position: relative;
+  width: 375px;
+}
+
+.frame-335 {
+  height: 13px;
+  left: 293px;
+  position: absolute;
+  top: 16px;
+  width: 18px;
+}
+
+.frame-336 {
+  height: 13px;
+  left: 336px;
+  position: absolute;
+  top: 16px;
+  width: 25px;
+}
+
+.frame-337 {
+  height: 13px;
+  left: 315px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+
+.rectangle-342 {
+  background-color: var(--black);
+  height: 812px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.rectangle-343 {
+  display: block;
+  height: 302px;
+  left: 35px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 104px;
+  width: 305px;
+}
+
+.rectangle-343.animate-enter {
+  animation: animate-enter-frames 1.00s ease-in-out 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+.rectangle-344 {
+  background-color: var(--black);
+  border-radius: 3px;
+  height: 5px;
+  left: 120px;
+  position: absolute;
+  top: 799px;
+  width: 135px;
+}
+
+.text-34 {
+  left: 27px;
+  letter-spacing: -0.24px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.table-and-private-section-service {
+  color: #4c4c4c;
+  font-family: var(--font-family-sf_pro_text-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 62px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 408px;
+  white-space: nowrap;
+  width: 247px;
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+

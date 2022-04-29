@@ -1,0 +1,323 @@
+.booking {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 375px;
+}
+
+.frame-140 {
+  background-color: var(--white);
+  height: 812px;
+  margin-left: -431px;
+  margin-top: -41.09px;
+  width: 375px;
+}
+
+.overlap-group-17 {
+  height: 812px;
+  margin-left: 56px;
+  margin-top: -0.09px;
+  position: relative;
+  width: 435px;
+}
+
+.rectangle-159 {
+  background-color: var(--gun-powder);
+  height: 812px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.rectangle-160 {
+  background-color: var(--cyber-grape);
+  height: 88px;
+  left: 1px;
+  position: absolute;
+  top: 4px;
+  width: 375px;
+}
+
+.frame-141 {
+  height: 13px;
+  left: 293px;
+  position: absolute;
+  top: 16px;
+  width: 18px;
+}
+
+.frame-142 {
+  height: 13px;
+  left: 336px;
+  position: absolute;
+  top: 16px;
+  width: 25px;
+}
+
+.frame-143 {
+  height: 13px;
+  left: 315px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+
+.frame-144 {
+  height: 22px;
+  left: 8px;
+  position: absolute;
+  top: 56px;
+  width: 12px;
+}
+
+.rectangle-161 {
+  background-color: var(--mercury);
+  height: 211px;
+  left: 0;
+  position: absolute;
+  top: 88px;
+  width: 375px;
+}
+
+.rectangle-162 {
+  height: 212px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 375px;
+}
+
+.rectangle-163 {
+  background-color: #0000004c;
+  height: 211px;
+  left: 0;
+  position: absolute;
+  top: 88px;
+  width: 375px;
+}
+
+.rectangle-164 {
+  height: 43px;
+  left: 16px;
+  position: absolute;
+  top: 738px;
+  width: 343px;
+}
+
+.rectangle-165 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 397px;
+  width: 343px;
+}
+
+.rectangle-166 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 444px;
+  width: 343px;
+}
+
+.frame-145 {
+  height: 31px;
+  left: 335px;
+  position: absolute;
+  top: 446px;
+  width: 30px;
+}
+
+.rectangle-167 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 485px;
+  width: 343px;
+}
+
+.rectangle-168 {
+  background-color: var(--black);
+  border-radius: 3px;
+  height: 5px;
+  left: 120px;
+  position: absolute;
+  top: 799px;
+  width: 135px;
+}
+
+.text-18 {
+  left: 27px;
+  letter-spacing: -0.24px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.place-13 {
+  left: 26px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  top: 55px;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.club-nameimage {
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_display-bold);
+  font-size: 28px;
+  font-weight: 700;
+  left: 71px;
+  letter-spacing: 0.34px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 177px;
+  white-space: nowrap;
+  width: 233px;
+}
+
+.confirm {
+  left: 153px;
+  letter-spacing: -0.41px;
+  position: absolute;
+  text-align: center;
+  top: 750px;
+  width: 69px;
+}
+
+.reservation {
+  -webkit-text-stroke: 1px var(--black);
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: 22px;
+  font-weight: 600;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  text-shadow: 0px 7px 64px #00000012;
+  top: 319px;
+  white-space: nowrap;
+  width: 180px;
+}
+
+.package {
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_display-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0.38px;
+  line-height: 25px;
+  position: absolute;
+  top: 362px;
+  white-space: nowrap;
+  width: 79px;
+}
+
+.place-14 {
+  left: 16px;
+  letter-spacing: 0.38px;
+  line-height: 25px;
+  position: absolute;
+  top: 409px;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.address {
+  left: 191px;
+  letter-spacing: 0.38px;
+  line-height: 25px;
+  position: absolute;
+  top: 409px;
+  white-space: nowrap;
+  width: 207px;
+}
+
+.comments {
+  left: 16px;
+  letter-spacing: 0.38px;
+  line-height: 25px;
+  position: absolute;
+  top: 450px;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.total {
+  left: 16px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 645px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.including-20-off-coupon {
+  height: 13px;
+  left: 16px;
+  position: absolute;
+  top: 668px;
+  width: 155px;
+}
+
+.price-2 {
+  color: var(--prim);
+  font-family: var(--font-family-sf_pro_text-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  left: 271px;
+  letter-spacing: 0.38px;
+  line-height: 25px;
+  position: absolute;
+  top: 642px;
+  white-space: nowrap;
+  width: 120px;
+}
+
+.your-card-will-not {
+  color: var(--bombay);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  left: 17px;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  position: absolute;
+  top: 694px;
+  width: 344px;
+}
+
+.rectangle-169 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 91px;
+  width: 375px;
+}
+
+.selected {
+  left: 247px;
+  letter-spacing: 0.38px;
+  line-height: 25px;
+  position: absolute;
+  top: 354px;
+  white-space: nowrap;
+  width: 188px;
+}
+

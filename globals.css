@@ -1,0 +1,69 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import url("https://fonts.googleapis.com/css?family=Nunito:600");
+@font-face {
+  font-family: "SF Pro Text-Semibold";
+  font-style: normal;
+  font-weight: 400;
+  src: url("static/fonts/SF-Pro-Text-Semibold.otf") format("opentype");
+}
+@font-face {
+  font-family: "SF Pro Text-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("static/fonts/SF-Pro-Text-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "SF Pro Display-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("static/fonts/SF-Pro-Display-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "SF Pro Display-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("static/fonts/SF-Pro-Display-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "SF Pro Text-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("static/fonts/SF-Pro-Text-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "SF Pro Text-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("static/fonts/FontsFree-Net-SFProText-Medium.ttf") format("truetype");
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.align-self-flex-center {
+  align-self: flex-center;
+}
+
+input:focus {
+  outline: none;
+}
+
+* {
+  box-sizing: border-box;
+}

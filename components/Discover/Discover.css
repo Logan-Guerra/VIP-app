@@ -1,0 +1,774 @@
+.discover {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 375px;
+}
+
+.frame-6 {
+  background-color: var(--white);
+  height: 1108px;
+  margin-left: -431px;
+  margin-top: -55.89px;
+  width: 375px;
+}
+
+.overlap-group-1 {
+  height: 1195px;
+  margin-left: 53px;
+  margin-top: -0.39px;
+  position: relative;
+  width: 669px;
+}
+
+.rectangle-4 {
+  height: 1109px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.frame-7 {
+  height: 13px;
+  left: 296px;
+  position: absolute;
+  top: 17px;
+  width: 18px;
+}
+
+.frame-8 {
+  height: 13px;
+  left: 339px;
+  position: absolute;
+  top: 17px;
+  width: 25px;
+}
+
+.frame-9 {
+  height: 13px;
+  left: 318px;
+  position: absolute;
+  top: 17px;
+  width: 16px;
+}
+
+.rectangle-5 {
+  border-radius: 6px;
+  height: 172px;
+  left: 19px;
+  position: absolute;
+  top: 1022px;
+  width: 343px;
+}
+
+.rectangle-6 {
+  background-color: var(--mist-gray);
+  height: 109px;
+  left: 19px;
+  position: absolute;
+  top: 1086px;
+  width: 343px;
+}
+
+.rectangle-7 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 172px;
+  left: 19px;
+  position: absolute;
+  top: 1022px;
+  width: 343px;
+}
+
+.rectangle-8 {
+  height: 172px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 1022px;
+  width: 343px;
+}
+
+.rectangle-9 {
+  background-color: var(--cyber-grape);
+  height: 140px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 375px;
+}
+
+.frame-10 {
+  cursor: pointer;
+  height: 26px;
+  left: 334px;
+  position: absolute;
+  top: 58px;
+  width: 26px;
+}
+
+.rectangle-10 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 141px;
+  width: 375px;
+}
+
+.rectangle-11 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 150px;
+  left: 19px;
+  position: absolute;
+  top: 860px;
+  width: 150px;
+}
+
+.rectangle-12 {
+  cursor: pointer;
+  height: 150px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 859px;
+  width: 150px;
+}
+
+.rectangle-13 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 150px;
+  left: 179px;
+  position: absolute;
+  top: 860px;
+  width: 150px;
+}
+
+.rectangle-14 {
+  cursor: pointer;
+  height: 150px;
+  left: 179px;
+  object-fit: cover;
+  position: absolute;
+  top: 859px;
+  width: 150px;
+}
+
+.rectangle-15 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 150px;
+  left: 339px;
+  position: absolute;
+  top: 860px;
+  width: 150px;
+}
+
+.rectangle-16 {
+  cursor: pointer;
+  height: 150px;
+  left: 339px;
+  object-fit: cover;
+  position: absolute;
+  top: 859px;
+  width: 150px;
+}
+
+.rectangle-17 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 150px;
+  left: 19px;
+  position: absolute;
+  top: 594px;
+  width: 150px;
+}
+
+.rectangle-18 {
+  cursor: pointer;
+  height: 150px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 594px;
+  width: 150px;
+}
+
+.rectangle-19 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 150px;
+  left: 179px;
+  position: absolute;
+  top: 594px;
+  width: 150px;
+}
+
+.rectangle-20 {
+  cursor: pointer;
+  height: 150px;
+  left: 179px;
+  object-fit: cover;
+  position: absolute;
+  top: 594px;
+  width: 150px;
+}
+
+.rectangle-21 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 150px;
+  left: 339px;
+  position: absolute;
+  top: 594px;
+  width: 150px;
+}
+
+.rectangle-22 {
+  cursor: pointer;
+  height: 150px;
+  left: 339px;
+  object-fit: cover;
+  position: absolute;
+  top: 594px;
+  width: 150px;
+}
+
+.rectangle-23 {
+  background-color: var(--cyber-grape);
+  height: 83px;
+  left: 3px;
+  position: absolute;
+  top: 1026px;
+  width: 375px;
+}
+
+.rectangle-24 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 3px;
+  position: absolute;
+  top: 1026px;
+  width: 375px;
+}
+
+.frame-11 {
+  height: 25px;
+  left: 29px;
+  position: absolute;
+  top: 1033px;
+  width: 24px;
+}
+
+.frame-12 {
+  cursor: pointer;
+  height: 25px;
+  left: 104px;
+  position: absolute;
+  top: 1033px;
+  width: 24px;
+}
+
+.frame-13 {
+  height: 25px;
+  left: 179px;
+  position: absolute;
+  top: 1033px;
+  width: 24px;
+}
+
+.frame-14 {
+  cursor: pointer;
+  height: 25px;
+  left: 254px;
+  position: absolute;
+  top: 1033px;
+  width: 24px;
+}
+
+.frame-15 {
+  cursor: pointer;
+  height: 25px;
+  left: 329px;
+  position: absolute;
+  top: 1033px;
+  width: 24px;
+}
+
+.rectangle-25 {
+  height: 34px;
+  left: 3px;
+  position: absolute;
+  top: 554px;
+  width: 375px;
+}
+
+.rectangle-26 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 179px;
+  left: 19px;
+  position: absolute;
+  top: 204px;
+  width: 320px;
+}
+
+.rectangle-27 {
+  cursor: pointer;
+  height: 180px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 204px;
+  width: 320px;
+}
+
+.rectangle-28 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 179px;
+  left: 349px;
+  position: absolute;
+  top: 204px;
+  width: 320px;
+}
+
+.rectangle-29 {
+  cursor: pointer;
+  height: 180px;
+  left: 349px;
+  object-fit: cover;
+  position: absolute;
+  top: 204px;
+  width: 320px;
+}
+
+.frame-16 {
+  cursor: pointer;
+  height: 25px;
+  left: 346px;
+  position: absolute;
+  top: 411px;
+  width: 24px;
+}
+
+.rectangle-30 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 19px;
+  position: absolute;
+  top: 462px;
+  width: 359px;
+}
+
+.frame-17 {
+  cursor: pointer;
+  height: 25px;
+  left: 346px;
+  position: absolute;
+  top: 491px;
+  width: 24px;
+}
+
+.rectangle-31 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 19px;
+  position: absolute;
+  top: 542px;
+  width: 359px;
+}
+
+.rectangle-32 {
+  background-color: var(--black);
+  border-radius: 3px;
+  height: 5px;
+  left: 123px;
+  position: absolute;
+  top: 1096px;
+  width: 135px;
+}
+
+.text-2 {
+  left: 30px;
+  letter-spacing: -0.24px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.become-a-promoter {
+  left: 35px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 1164px;
+  white-space: nowrap;
+  width: 141px;
+}
+
+.title {
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 41px;
+  position: absolute;
+  top: 91px;
+  white-space: nowrap;
+  width: 146px;
+}
+
+.featured-venues {
+  color: var(--mauve);
+  font-family: var(--font-family-sf_pro_display-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0.38px;
+  line-height: 25px;
+  position: absolute;
+  top: 148px;
+  white-space: nowrap;
+  width: 146px;
+}
+
+.subtitle {
+  color: var(--oslo-gray);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0.38px;
+  line-height: 25px;
+  position: absolute;
+  top: 174px;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.by-ratings {
+  cursor: pointer;
+  left: 19px;
+  letter-spacing: 0.38px;
+  line-height: 25px;
+  position: absolute;
+  top: 820px;
+  white-space: nowrap;
+  width: 101px;
+}
+
+.see-all {
+  cursor: pointer;
+  left: 310px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  top: 822px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.number {
+  left: 19px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 1014px;
+  white-space: nowrap;
+  width: 7px;
+}
+
+.item-name {
+  left: 19px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 1036px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.subtitle-1 {
+  left: 19px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 1058px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.number-1 {
+  left: 179px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 1014px;
+  white-space: nowrap;
+  width: 9px;
+}
+
+.item-name-1 {
+  left: 179px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 1036px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.subtitle-2 {
+  left: 179px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 1058px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.number-2 {
+  left: 339px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 1014px;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.item-name-2 {
+  left: 339px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 1036px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.subtitle-3 {
+  left: 339px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 1058px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.number-3 {
+  left: 19px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 750px;
+  white-space: nowrap;
+  width: 7px;
+}
+
+.item-name-3 {
+  left: 19px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 772px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.subtitle-4 {
+  left: 19px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 794px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.number-4 {
+  left: 179px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 750px;
+  white-space: nowrap;
+  width: 9px;
+}
+
+.item-name-4 {
+  left: 179px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 772px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.subtitle-5 {
+  left: 179px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 794px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.number-5 {
+  left: 339px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 750px;
+  white-space: nowrap;
+  width: 10px;
+}
+
+.item-name-5 {
+  left: 339px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 772px;
+  white-space: nowrap;
+  width: 75px;
+}
+
+.subtitle-6 {
+  left: 339px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 794px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.place-1 {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 1062px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.search {
+  left: 98px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 1062px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.my-events {
+  left: 165px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 1062px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.my-tabs {
+  left: 245px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 1062px;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.vip-access {
+  left: 313px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 1062px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.by-location {
+  cursor: pointer;
+  left: 19px;
+  letter-spacing: 0.38px;
+  line-height: 25px;
+  position: absolute;
+  top: 558px;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.see-all-1 {
+  cursor: pointer;
+  left: 310px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  top: 560px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.party-tracker {
+  cursor: pointer;
+  left: 19px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  top: 394px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.rsvp-where-youre-go {
+  left: 19px;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  position: absolute;
+  top: 418px;
+  width: 265px;
+}
+
+.group-fund {
+  cursor: pointer;
+  left: 19px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  top: 482px;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.raise-the-money-before-you-commit {
+  left: 19px;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  position: absolute;
+  top: 504px;
+  white-space: nowrap;
+  width: 217px;
+}
+

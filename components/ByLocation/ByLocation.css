@@ -1,0 +1,371 @@
+.by-location-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 375px;
+}
+
+.frame-189 {
+  background-color: var(--white);
+  height: 953px;
+  margin-left: -431px;
+  margin-top: -48.14px;
+  width: 375px;
+}
+
+.overlap-group-23 {
+  height: 953px;
+  margin-left: 54px;
+  margin-top: -0.14px;
+  position: relative;
+  width: 377px;
+}
+
+.rectangle-210 {
+  background-color: var(--gun-powder);
+  height: 953px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.frame-190 {
+  height: 13px;
+  left: 295px;
+  position: absolute;
+  top: 16px;
+  width: 18px;
+}
+
+.frame-191 {
+  height: 13px;
+  left: 338px;
+  position: absolute;
+  top: 16px;
+  width: 25px;
+}
+
+.frame-192 {
+  height: 13px;
+  left: 317px;
+  position: absolute;
+  top: 16px;
+  width: 16px;
+}
+
+.rectangle-211 {
+  background-color: var(--cyber-grape);
+  height: 140px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.frame-193 {
+  height: 22px;
+  left: 10px;
+  position: absolute;
+  top: 46px;
+  width: 12px;
+}
+
+.frame-194 {
+  cursor: pointer;
+  height: 27px;
+  left: 335px;
+  position: absolute;
+  top: 42px;
+  width: 26px;
+}
+
+.rectangle-212 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 140px;
+  width: 375px;
+}
+
+.rectangle-213 {
+  background-color: var(--cyber-grape);
+  height: 83px;
+  left: 2px;
+  position: absolute;
+  top: 870px;
+  width: 375px;
+}
+
+.rectangle-214 {
+  background-color: var(--mercury-2);
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 870px;
+  width: 375px;
+}
+
+.frame-195 {
+  cursor: pointer;
+  height: 25px;
+  left: 28px;
+  position: absolute;
+  top: 878px;
+  width: 24px;
+}
+
+.frame-196 {
+  cursor: pointer;
+  height: 25px;
+  left: 103px;
+  position: absolute;
+  top: 878px;
+  width: 24px;
+}
+
+.frame-197 {
+  height: 25px;
+  left: 178px;
+  position: absolute;
+  top: 878px;
+  width: 24px;
+}
+
+.frame-198 {
+  cursor: pointer;
+  height: 25px;
+  left: 253px;
+  position: absolute;
+  top: 878px;
+  width: 24px;
+}
+
+.frame-199 {
+  cursor: pointer;
+  height: 25px;
+  left: 328px;
+  position: absolute;
+  top: 878px;
+  width: 24px;
+}
+
+.rectangle-215 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 170px;
+  left: 18px;
+  position: absolute;
+  top: 151px;
+  width: 343px;
+}
+
+.rectangle-216 {
+  cursor: pointer;
+  height: 170px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 151px;
+  width: 343px;
+}
+
+.rectangle-217 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 170px;
+  left: 18px;
+  position: absolute;
+  top: 384px;
+  width: 343px;
+}
+
+.rectangle-218 {
+  cursor: pointer;
+  height: 170px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 384px;
+  width: 343px;
+}
+
+.rectangle-219 {
+  background-color: var(--mercury);
+  border-radius: 6px;
+  height: 170px;
+  left: 18px;
+  position: absolute;
+  top: 616px;
+  width: 343px;
+}
+
+.rectangle-220 {
+  cursor: pointer;
+  height: 170px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 616px;
+  width: 343px;
+}
+
+.rectangle-221 {
+  background-color: var(--black);
+  border-radius: 3px;
+  height: 5px;
+  left: 122px;
+  position: absolute;
+  top: 940px;
+  width: 135px;
+}
+
+.text-27 {
+  left: 29px;
+  letter-spacing: -0.24px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.place-20 {
+  cursor: pointer;
+  left: 28px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.by-location-2 {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 41px;
+  position: absolute;
+  top: 81px;
+  white-space: nowrap;
+  width: 176px;
+}
+
+.place-21 {
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 906px;
+  white-space: nowrap;
+  width: 29px;
+}
+
+.search-12 {
+  left: 97px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 906px;
+  white-space: nowrap;
+  width: 34px;
+}
+
+.my-events-10 {
+  left: 164px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 906px;
+  white-space: nowrap;
+  width: 51px;
+}
+
+.my-tabs-12 {
+  left: 244px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 906px;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.vip-access-12 {
+  left: 312px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 906px;
+  white-space: nowrap;
+  width: 55px;
+}
+
+.catalog-item-name-one-3 {
+  left: 18px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 327px;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.subtitle-18 {
+  left: 18px;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  position: absolute;
+  top: 349px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.catalog-item-name-two-3 {
+  left: 18px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 560px;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.subtitle-19 {
+  left: 18px;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  position: absolute;
+  top: 582px;
+  white-space: nowrap;
+  width: 47px;
+}
+
+.catalog-item-name-three-3 {
+  left: 18px;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  position: absolute;
+  top: 792px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.subtitle-20 {
+  left: 18px;
+  letter-spacing: -0.08px;
+  line-height: 18px;
+  position: absolute;
+  top: 814px;
+  white-space: nowrap;
+  width: 47px;
+}
+

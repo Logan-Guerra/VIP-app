@@ -1,0 +1,351 @@
+:root { 
+  --azure-radiance: #007aff;
+  --black: #000000;
+  --blue-chalk: #e5e7fa;
+  --blueberry: #6979f8;
+  --bombay: #b5b5ba;
+  --concrete: #f2f2f7;
+  --cyber-grape: #574972;
+  --fuchsia-pink: #be52f2;
+  --ghost: #cfc9d6;
+  --gun-powder: #3f3356;
+  --mauve: #dba5f5;
+  --mercury: #e5e5e5;
+  --mercury-2: #e4e4e4;
+  --mischka: #d1d1d6;
+  --mist-gray: #c4c4c4;
+  --oslo-gray: #8e8e93;
+  --perano: #a5affb;
+  --prim: #eedff2;
+  --suva-gray: #838388;
+  --whisper: #f7f5f9;
+  --white: #ffffff;
+  --wisteria: #cea8e1;
+ 
+  --font-size-l: 17px;
+  --font-size-m: 15px;
+  --font-size-s: 13px;
+  --font-size-xl: 20px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 34px;
+  --font-size-xxs: 10px;
+ 
+  --font-family-nunito: "Nunito", Helvetica;
+  --font-family-sf_pro_display-bold: "SF Pro Display-Bold", Helvetica;
+  --font-family-sf_pro_display-regular: "SF Pro Display-Regular", Helvetica;
+  --font-family-sf_pro_text-bold: "SF Pro Text-Bold", Helvetica;
+  --font-family-sf_pro_text-medium: "SF Pro Text-Medium", Helvetica;
+  --font-family-sf_pro_text-regular: "SF Pro Text-Regular", Helvetica;
+  --font-family-sf_pro_text-semibold: "SF Pro Text-Semibold", Helvetica;
+}
+.sfprotext-medium-mercury-10px {
+  color: var(--mercury);
+  font-family: var(--font-family-sf_pro_text-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.sfprotext-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-sf_pro_text-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-perano-17px {
+  color: var(--perano);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.nunito-semi-bold-prim-34px {
+  color: var(--prim);
+  font-family: var(--font-family-nunito);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.sfprotext-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_text-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-prim-13px {
+  color: var(--prim);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-normal-perano-15px {
+  color: var(--perano);
+  font-family: var(--font-family-sf_pro_text-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-prim-15px {
+  color: var(--prim);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-suva-gray-15px {
+  color: var(--suva-gray);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-black-17px {
+  color: var(--black);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-oslo-gray-17px {
+  color: var(--oslo-gray);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-oslo-gray-13px {
+  color: var(--oslo-gray);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-ghost-13px {
+  color: var(--ghost);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-normal-perano-17px {
+  color: var(--perano);
+  font-family: var(--font-family-sf_pro_text-semibold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprodisplay-bold-mauve-20px {
+  color: var(--mauve);
+  font-family: var(--font-family-sf_pro_display-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sfprotext-regular-normal-blue-chalk-15px {
+  color: var(--blue-chalk);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-normal-prim-17px {
+  color: var(--prim);
+  font-family: var(--font-family-sf_pro_text-semibold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-suva-gray-17px {
+  color: var(--suva-gray);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-oslo-gray-15px {
+  color: var(--oslo-gray);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-blue-chalk-13px {
+  color: var(--blue-chalk);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-normal-prim-15px {
+  color: var(--prim);
+  font-family: var(--font-family-sf_pro_text-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprodisplay-bold-prim-22px {
+  color: var(--prim);
+  font-family: var(--font-family-sf_pro_display-bold);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sfprotext-bold-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-sf_pro_text-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sfprotext-regular-normal-black-15px {
+  color: var(--black);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-bold-prim-15px {
+  color: var(--prim);
+  font-family: var(--font-family-sf_pro_text-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sfprotext-regular-normal-whisper-15px {
+  color: var(--whisper);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-normal-blueberry-13px {
+  color: var(--blueberry);
+  font-family: var(--font-family-sf_pro_text-semibold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-prim-17px {
+  color: var(--prim);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-fuchsia-pink-17px {
+  color: var(--fuchsia-pink);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-normal-blueberry-15px {
+  color: var(--blueberry);
+  font-family: var(--font-family-sf_pro_text-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-perano-13px {
+  color: var(--perano);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-azure-radiance-17px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprodisplay-bold-prim-20px {
+  color: var(--prim);
+  font-family: var(--font-family-sf_pro_display-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sfprotext-normal-blueberry-11px {
+  color: var(--blueberry);
+  font-family: var(--font-family-sf_pro_text-semibold);
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-regular-normal-black-13px {
+  color: var(--black);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-normal-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_text-semibold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprodisplay-regular-normal-whisper-20px {
+  color: var(--whisper);
+  font-family: var(--font-family-sf_pro_display-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sfprotext-medium-perano-20px {
+  color: var(--perano);
+  font-family: var(--font-family-sf_pro_text-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-1px-black {
+  border: 1px solid var(--black);
+}
+
+.border-1px-mischka {
+  border: 1px solid var(--mischka);
+}
